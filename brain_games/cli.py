@@ -20,7 +20,7 @@ def run(game=None):
         count = 0
 
         while(count < MAX_ATTEMPT):
-            answer, correct = game.start_game()
+            answer, correct = game.question()
             if answer == correct:
                 print("Correct!")
                 count += 1

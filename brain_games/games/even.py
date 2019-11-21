@@ -8,7 +8,7 @@ MAX_NUM = 100
 RULE = "Answer \"yes\" if number even otherwise answer \"no\"."
 
 
-def start_game():
+def question():
     num = randint(MIN_NUM, MAX_NUM)
     print("Question: " + str(num))
     answer = prompt.string('Answer: ')

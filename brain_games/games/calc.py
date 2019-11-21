@@ -9,7 +9,7 @@ RULE = "What is the result of the expression?"
 SIGNS = ["+", "-", "*"]
 
 
-def start_game():
+def question():
     num_1 = randint(MIN_NUM, MAX_NUM)
     num_2 = randint(MIN_NUM, MAX_NUM)
     sign = choice(SIGNS)
