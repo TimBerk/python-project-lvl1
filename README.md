@@ -17,3 +17,7 @@ This project was built using these tools:
 * The minimum required Python version is 3.7
 
 [![asciicast](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq.svg)](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq)
+
+### Brain_calc
+
+[![asciicast](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ.svg)](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ)
