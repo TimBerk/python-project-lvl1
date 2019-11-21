@@ -21,3 +21,7 @@ This project was built using these tools:
 ### Brain_calc
 
 [![asciicast](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ.svg)](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ)
+
+### Brain_gcd
+
+[![asciicast](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t.svg)](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t)
