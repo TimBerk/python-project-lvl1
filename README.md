@@ -11,3 +11,9 @@ This project was built using these tools:
 | Tools   |  Description  |
 |---------|:-------------:|
 | Poetry  | "Python dependency management and packaging made easy" |
+
+## Installation
+
+* The minimum required Python version is 3.7
+
+[![asciicast](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq.svg)](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq)
