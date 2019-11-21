@@ -25,3 +25,7 @@ This project was built using these tools:
 ### Brain_gcd
 
 [![asciicast](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t.svg)](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t)
+
+### Brain_progression
+
+[![asciicast](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh.svg)](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh)
