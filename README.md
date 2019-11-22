@@ -29,3 +29,7 @@ This project was built using these tools:
 ### Brain_progression
 
 [![asciicast](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh.svg)](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh)
+
+### Brain_prime
+
+[![asciicast](https://asciinema.org/a/qD3Dm1rJvBiqXt4pkIbWXiwsq.svg)](https://asciinema.org/a/qD3Dm1rJvBiqXt4pkIbWXiwsq)
