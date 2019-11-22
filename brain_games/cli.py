@@ -5,31 +5,43 @@ import prompt
 MAX_ATTEMPT = 3
 
 
-def run(game=None):
+def greet(rules=None):
+
     print()
     print("Welcome to the Brain Games!")
-    if game is not None:
-        print(game.RULE)
+    if rules is not None:
+        print(rules)
     print()
 
-    name = prompt.string('May I have your name? ')
-    print(f"Hello, {name}!")
+    name_player = prompt.string('May I have your name? ')
+    print(f"Hello, {name_player}!")
+    print()
 
-    if game is not None:
-        print()
-        count = 0
+    return name_player
 
-        while(count < MAX_ATTEMPT):
-            answer, correct = game.question()
-            if answer == correct:
-                print("Correct!")
-                count += 1
-            else:
-                print(f"'{answer}' is wrong answer ;(. ",
-                      f"Correct answer was '{correct}'.")
-                break
 
-        if count == MAX_ATTEMPT:
-            print(f"Congratulations, {name}!")
+def start_game(name_player, game):
+
+    count = 0
+
+    while(count < MAX_ATTEMPT):
+        answer, correct = game.question()
+        if answer == correct:
+            print("Correct!")
+            count += 1
         else:
-            print(f"Let's try again, {name}!")
+            print(f"'{answer}' is wrong answer ;(. ",
+                  f"Correct answer was '{correct}'.")
+            break
+
+    if count == MAX_ATTEMPT:
+        print(f"Congratulations, {name_player}!")
+    else:
+        print(f"Let's try again, {name_player}!")
+
+
+def run(game):
+    name_player = greet(game.RULE)
+
+    if hasattr(game, 'question'):
+        start_game(name_player, game)

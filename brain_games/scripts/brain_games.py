@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-from brain_games.cli import run
+from brain_games.cli import greet
 
 
 def main():
-    run()
+    greet()
 
 
 if __name__ == "__main__":

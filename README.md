@@ -1,8 +1,8 @@
 # Проект Игры разума
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/TimBerk/python-project-lvl1) [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/TimBerk/python-project-lvl1) [![Build Status](https://travis-ci.org/TimBerk/python-project-lvl1.svg?branch=master)](https://travis-ci.org/TimBerk/python-project-lvl1)
+[![Maintainability](https://api.codeclimate.com/v1/badges/11220102c2c989940ba3/maintainability)](https://codeclimate.com/github/TimBerk/python-project-lvl1/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/11220102c2c989940ba3/test_coverage)](https://codeclimate.com/github/TimBerk/python-project-lvl1/test_coverage) [![Build Status](https://travis-ci.org/TimBerk/python-project-lvl1.svg?branch=master)](https://travis-ci.org/TimBerk/python-project-lvl1)
 
-Погрузитесь в экосистему Python, научитесь настраивать рабочее окружение. Подружитесь с flake8 (линтером, анализатором качества кода) и менеджером зависимостей poetry. Поймёте, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
+Set of mini-games, that run in the console.
 
 ## Links
 
@@ -16,11 +16,19 @@ This project was built using these tools:
 
 * The minimum required Python version is 3.7
 
-[![asciicast](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq.svg)](https://asciinema.org/a/Uh6tT4zRT0iaL7jQsPYnliIuq)
+```python
+python3 -m pip install --no-cache-dir --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple timberk-brain-games
+```
+
+## Example installation and run game
+
+### Brain_games and brain_even
+
+[![asciicast](https://asciinema.org/a/teppRHSNBIWLip64fV3mFC5RX.svg)](https://asciinema.org/a/teppRHSNBIWLip64fV3mFC5RX)
 
 ### Brain_calc
 
-[![asciicast](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ.svg)](https://asciinema.org/a/HQZKJTg6idJmlFrezO0ZuMyfQ)
+[![asciicast](https://asciinema.org/a/TuBcJwJ0N0oeGSHwHT9UwcoX3.svg)](https://asciinema.org/a/TuBcJwJ0N0oeGSHwHT9UwcoX3)
 
 ### Brain_gcd
 
@@ -32,4 +40,4 @@ This project was built using these tools:
 
 ### Brain_prime
 
-[![asciicast](https://asciinema.org/a/qD3Dm1rJvBiqXt4pkIbWXiwsq.svg)](https://asciinema.org/a/qD3Dm1rJvBiqXt4pkIbWXiwsq)
+[![asciicast](https://asciinema.org/a/UZbjR8zW6aTPZ2f2awb1hBSP3.svg)](https://asciinema.org/a/UZbjR8zW6aTPZ2f2awb1hBSP3)
