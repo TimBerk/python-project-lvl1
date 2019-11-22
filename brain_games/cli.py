@@ -32,12 +32,11 @@ def start_game(name_player, game):
         else:
             print(f"'{answer}' is wrong answer ;(. ",
                   f"Correct answer was '{correct}'.")
+            print(f"Let's try again, {name_player}!")
             break
 
     if count == MAX_ATTEMPT:
         print(f"Congratulations, {name_player}!")
-    else:
-        print(f"Let's try again, {name_player}!")
 
 
 def run(game):

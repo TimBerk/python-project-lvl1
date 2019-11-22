@@ -17,7 +17,7 @@ This project was built using these tools:
 * The minimum required Python version is 3.7
 
 ```python
-python3 -m pip install --no-cache-dir --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple timberk-brain-games
+pip install --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple timberk-brain-games
 ```
 
 ## Example installation and run game
