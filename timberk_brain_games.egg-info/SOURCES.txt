@@ -1,9 +1,0 @@
-setup.py
-brain_games/__init__.py
-brain_games/scripts/__init__.py
-brain_games/scripts/brain_games.py
-timberk_brain_games.egg-info/PKG-INFO
-timberk_brain_games.egg-info/SOURCES.txt
-timberk_brain_games.egg-info/dependency_links.txt
-timberk_brain_games.egg-info/entry_points.txt
-timberk_brain_games.egg-info/top_level.txt
