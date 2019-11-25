@@ -24,20 +24,20 @@ pip install --index-url https://test.pypi.org/simple --extra-index-url https://p
 
 ### Brain_games and brain_even
 
-[![asciicast](https://asciinema.org/a/teppRHSNBIWLip64fV3mFC5RX.svg)](https://asciinema.org/a/teppRHSNBIWLip64fV3mFC5RX)
+[![asciicast](https://asciinema.org/a/006WSGv1feFM7zH6SBTTPamv5.svg)](https://asciinema.org/a/006WSGv1feFM7zH6SBTTPamv5)
 
 ### Brain_calc
 
-[![asciicast](https://asciinema.org/a/TuBcJwJ0N0oeGSHwHT9UwcoX3.svg)](https://asciinema.org/a/TuBcJwJ0N0oeGSHwHT9UwcoX3)
+[![asciicast](https://asciinema.org/a/MsGQCUpISo9SuOtc8jqSStfrR.svg)](https://asciinema.org/a/MsGQCUpISo9SuOtc8jqSStfrR)
 
 ### Brain_gcd
 
-[![asciicast](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t.svg)](https://asciinema.org/a/aYV738ryU9fDXSAcbB7fEiP3t)
+[![asciicast](https://asciinema.org/a/YS8drMYdAXRvCGIT0u5ujohSb.svg)](https://asciinema.org/a/YS8drMYdAXRvCGIT0u5ujohSb)
 
 ### Brain_progression
 
-[![asciicast](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh.svg)](https://asciinema.org/a/cgCBSYH0W3Plk7JqzPr8VDDIh)
+[![asciicast](https://asciinema.org/a/L6YJBWwEvw5D5w0DcErNrIZdO.svg)](https://asciinema.org/a/L6YJBWwEvw5D5w0DcErNrIZdO)
 
 ### Brain_prime
 
-[![asciicast](https://asciinema.org/a/UZbjR8zW6aTPZ2f2awb1hBSP3.svg)](https://asciinema.org/a/UZbjR8zW6aTPZ2f2awb1hBSP3)
+[![asciicast](https://asciinema.org/a/InIyCNWSRGw9bZr8hioGS9dQY.svg)](https://asciinema.org/a/InIyCNWSRGw9bZr8hioGS9dQY)
