@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 from random import randint
-import prompt
 
 
 MIN_NUM = 1
