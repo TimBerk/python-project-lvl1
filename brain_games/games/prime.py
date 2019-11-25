@@ -12,7 +12,7 @@ def is_even(a):
 
 
 def is_prime(n):
-    if n <= 1 or is_even(n):
+    if is_even(n):
         return False
     if n == 2:
         return True
