@@ -14,12 +14,12 @@ def find_gcd(a, b):
         else:
             b -= a
 
-    return str(a)
+    return a
 
 
 def question():
     num_1 = randint(MIN_NUM, MAX_NUM)
     num_2 = randint(MIN_NUM, MAX_NUM)
     question = f"Question: {str(num_1)} {str(num_2)}"
-    correct = find_gcd(num_1, num_2)
+    correct = str(find_gcd(num_1, num_2))
     return question, correct
