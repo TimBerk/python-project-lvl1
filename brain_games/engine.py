@@ -22,7 +22,7 @@ def start_game(name_player, game):
         print("Correct!")
         count += 1
 
-    if count == MAX_ATTEMPT:
+    else:
         print(f"Congratulations, {name_player}!")
 
 
