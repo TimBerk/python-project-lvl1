@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "TimBerk_brain_games"
-version = "0.9.1"
+version = "0.9.2"
 description = ""
 authors = ["Lysak Tatiana <lysak-tatiana2501@ya.ru>"]
 packages = [

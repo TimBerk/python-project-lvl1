@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+from math import sqrt
 from random import randint
 
 
@@ -8,7 +9,7 @@ RULE = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def is_even(a):
-    return False if a % 2 else True
+    return not (a % 2)
 
 
 def is_prime(n):
@@ -17,11 +18,12 @@ def is_prime(n):
     if n == 2:
         return True
 
-    num = 2
-    while num ** 2 <= n:
-        if n % num == 0:
+    num = 3
+    sqrt_n = sqrt(n)
+    while num <= sqrt_n:
+        if not n % num:
             return False
-        num += 1
+        num += 2
     return True
 
 
