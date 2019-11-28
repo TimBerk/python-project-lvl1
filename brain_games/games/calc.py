@@ -6,9 +6,9 @@ import operator
 MIN_NUM = 1
 MAX_NUM = 20
 RULE = "What is the result of the expression?"
-SIGNS = [
+SIGNS = (
     ("+", operator.add), ("-", operator.sub), ("*", operator.mul)
-]
+)
 
 
 def question():
